@@ -9,6 +9,10 @@ main {
   flex: 1 0 auto;
 }
 
+p {
+  padding: 10px;
+}
+
 div.skills-body {
   padding-top: 1vh;
 }
